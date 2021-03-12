@@ -1,1 +1,1 @@
-# msc
+# cc journal
